@@ -70,3 +70,4 @@ https://medium.com/@derekboman3/derek-allan-boman-ai-systems-developer-inventor-
 
 **Google Scholars**
 https://scholar.google.com/citations?user=KO_xe-QAAAAJ
+
