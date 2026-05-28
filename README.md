@@ -57,7 +57,7 @@ Derek Allan Boman’s work includes communication system patents related to outb
 https://github.com/derekallanboman
 
 **Derek Allan Boman – Google Site**  
-https://sites.google.com/view/derek-allan-boman
+https://www.derekallanboman.com/
 
 **LinkedIn**  
 https://www.linkedin.com/in/derekallanboman
