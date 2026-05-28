@@ -39,6 +39,18 @@ Derek Allan Boman’s work includes communication system patents related to outb
 
 ---
 
+## Derek Allan Boman – Main Links
+
+- Official Website: https://www.derekallanboman.com/
+- Patents: https://www.derekallanboman.com/patents
+- ChannelRoute AI: https://www.derekallanboman.com/channelroute-ai
+- AI Call Intelligence: https://www.derekallanboman.com/ai-call-intelligence
+- Projects: https://www.derekallanboman.com/projects
+- Medium Patent Portfolio: https://medium.com/@derekboman3/derek-allan-boman-patent-portfolio-communication-systems-call-intelligence-93dc9d935995
+- Google Scholar: https://scholar.google.com/citations?hl=en&view_op=list_works&user=KO_xe-QAAAAJ
+
+---
+
 ## Links
 
 **Derek Allan Boman – GitHub Profile**  
@@ -55,3 +67,6 @@ https://medium.com/@derekboman3
 
 **Medium Article**  
 https://medium.com/@derekboman3/derek-allan-boman-ai-systems-developer-inventor-and-communication-system-patents-9b608e67c005
+
+**Google Scholars**
+https://scholar.google.com/citations?user=KO_xe-QAAAAJ
