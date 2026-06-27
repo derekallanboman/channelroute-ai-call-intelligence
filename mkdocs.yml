@@ -1,0 +1,10 @@
+site_name: ChannelRoute AI Documentation
+site_description: Public documentation for ChannelRoute AI, identity resolution, live-human detection, speaker recognition, call intelligence, and AI-assisted communication systems.
+site_author: Derek Allan Boman
+site_url: https://channelroute-ai-call-intelligence.readthedocs.io/
+
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.md
