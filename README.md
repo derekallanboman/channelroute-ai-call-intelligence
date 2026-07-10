@@ -18,7 +18,7 @@ Outbound teams often lose time to unanswered calls, voicemail, wrong parties, de
 
 ## Core Concept
 
-The central idea behind ChannelRoute AI is:
+The central idea behind ChannelRoute AI:
 
 **Reduce wasted dialing time and help identify useful live-human interactions faster.**
 
