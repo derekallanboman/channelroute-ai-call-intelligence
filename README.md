@@ -1,4 +1,4 @@
-# ChannelRoute AI – Call Intelligence Prototype
+<img width="562" height="955" alt="image" src="https://github.com/user-attachments/assets/1309d923-2aed-4ceb-9259-7c911db10fd8" /># ChannelRoute AI – Call Intelligence Prototype
 
 **ChannelRoute AI** is a browser-based call-intelligence prototype developed by **Derek Allan Boman** to demonstrate AI-assisted outbound communication workflows, multi-channel dialing concepts, human detection, call prioritization, and time-to-connect optimization.
 
@@ -104,6 +104,11 @@ https://derekallanboman.github.io/channelroute-ai-call-intelligence/
 
 **ChannelRoute AI Public Overview**  
 https://channel-route-ai-public-overview.replit.app/
+
+
+**ChannelRoute AI Zapier MCP Listing**  
+https://zapier.com/mcp/channelroute-ai
+
 
 **ChannelRoute AI Postman Documentation**  
 https://documenter.getpostman.com/view/44248606/2sBY4JxihP
