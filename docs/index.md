@@ -12,6 +12,12 @@ ChannelRoute AI is an AI-assisted communication systems project focused on:
 - Call intelligence
 - Outbound workflow optimization
 
+## Integration
+
+[ChannelRoute AI – Zapier MCP](https://zapier.com/mcp/channelroute-ai)
+
+ChannelRoute AI is publicly listed in Zapier's MCP ecosystem, providing a connection point for AI-agent and automation workflows.
+
 ## About
 
 This documentation accompanies the public GitHub repository and related engineering resources for the project.
